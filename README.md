@@ -1,6 +1,6 @@
 # Simply-small
 
-Python Steps
+**Python Steps**
 
 Download the script
 Save the file as rename.py.
@@ -10,7 +10,7 @@ Navigate to the folder where rename.py is saved using cd command.
 Run:
 
 
-PowerShell Steps
+**PowerShell Steps**
 
 
 Press Win + X, then select Windows PowerShell or Windows Terminal.
