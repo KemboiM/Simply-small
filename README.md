@@ -8,7 +8,7 @@ Save the file as rename.py.
 , Edit paths to the folder
 , Open Command Prompt
 , Navigate to the folder where rename.py is saved using cd command
-, Run:
+, Run the script
 
 
 **PowerShell Steps**
