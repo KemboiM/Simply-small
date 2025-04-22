@@ -3,11 +3,11 @@ Renaming thousands of files in a folder on Windows can be done efficiently using
 
 **Python Steps**
 
-Download the script
+Download the script, 
 Save the file as rename.py.
 , Edit paths to the folder
 , Open Command Prompt
-, Navigate to the folder where rename.py is saved using cd command.
+, Navigate to the folder where rename.py is saved using cd command
 , Run:
 
 
