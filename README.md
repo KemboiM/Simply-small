@@ -1,4 +1,5 @@
-# Simply-small
+# Rename files on windows os 
+Renaming thousands of files in a folder on Windows can be done efficiently using:
 
 **Python Steps**
 
